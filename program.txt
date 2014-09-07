@@ -7,5 +7,9 @@ Programator1 novy radek
 Programator 2 novy radek
 uprava programator 4
 
+
 uprava na hlavni vetvy
+
+
+Uprava nova vetev
 
